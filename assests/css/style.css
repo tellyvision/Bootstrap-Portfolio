@@ -6,7 +6,6 @@ header {
 body {
     background-image: url("../images/bg.png");
     min-height: 100vh;
-    clear: both;
 }
 
 footer {
@@ -28,6 +27,24 @@ p {
 .navcontainer {
     width: 960px;
     margin: 0px auto 0px auto;
+}
+
+.navbar-brand {
+    height: 100%;
+    color: rgb(255, 255, 255);
+    background-color: #4aaaa5;
+}
+
+.nav-link {
+    font-size: 15px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin: 15px;
+    padding: 15px 30px 15px 30px;
+    float: right;
+    text-decoration: none;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
 }
 
 .link:hover {

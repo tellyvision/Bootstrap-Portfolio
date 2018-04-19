@@ -1,17 +1,12 @@
 .container {
-    width: 920px;
-    padding: 20px;
+    width: 100%;
+    max-width: 960px;
     margin: 20px auto auto auto;
     background-color: white;
     border: 1px solid #dddddd;
 }
 
-.projectscontainer {
-    float: left;
-    width: 50%;
-
-}
-.projectsbg {
+img {
     Margin: 5%;
     width: 90%;
     z-index: 2;
