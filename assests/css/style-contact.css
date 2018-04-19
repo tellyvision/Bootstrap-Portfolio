@@ -5,18 +5,17 @@
 }
 
 .contact {
+    width: 90%;
     float: left;
     background-color: white;
     border: 1px solid #dddddd;
-    padding: 20px;
-
 }
 
 .connect {
+    width: 90%;
     float: right;
     background-color: white;
     border: 1px solid #dddddd;
-    padding: 20px;
 }
 
 form {
